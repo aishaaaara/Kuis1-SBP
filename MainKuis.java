@@ -41,7 +41,7 @@ public class MainKuis{
 
         System.out.println(" ------------- Kuis 1 SBP (cr: Aisha Rahmadia & Naura Haidar) ------------- ");
         //cetak fakta awal
-        System.out.print("Fakta Baru : ");
+        System.out.print("Fakta Awal : ");
         for (char c = 'A'; c <= 'Z'; c++) {
             if (c == 'A' || c == 'E') {
                 if (facts[c - 'A']) {
